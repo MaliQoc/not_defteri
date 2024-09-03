@@ -1,7 +1,5 @@
 # not_defteri
 
-Bu Go uygulaması, terminal üzerinden notlar almanıza ve bu notları dosyaya kaydetmenize olanak tanır.
-
 ## Özellikler
 
 - **Not Ekleme**: Yeni notlar ekleyebilirsiniz.
